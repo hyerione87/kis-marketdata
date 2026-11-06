@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "50 21 * * 0-4"   # 평일 06:50 KST
   workflow_dispatch: {}
+  push:                        # 수동 요청: run-request.txt를 바꿔 올리면 1회 실행 (토큰 하루 1회 원칙 지킬 것)
+    paths:
+      - run-request.txt
 
 permissions:
   contents: write
