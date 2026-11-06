@@ -78,8 +78,10 @@ try:
 except Exception as e:
     cand_lines.append(f"마스터 파일 실패: {e}")
 open(os.path.join(OUT, "kis_codes.txt"), "w", encoding="utf-8").write("\n".join(cand_lines) + "\n")
-for key, (_, default) in WANT.items():
-    codes.setdefault(key, default)
+# 첫 실행(2026-11-06) 마스터 파일로 확인한 코드. 미국은 구분 P, 그 외 해외지수는 구분 W
+codes = {"SPX": "SPX", "COMP": "COMP", "DJI": ".DJI", "SSEC": "SHANG", "HSI": "HK#HS", "N225": "JP#NI225",
+         "TWII": "TW#WT", "SENSEX": "IN#BOMBAY", "SX5E": "SX5E", "DAX": "GR#DAX", "FTSE": "GB#FTSE"}
+
 
 # 2) 시세 조회
 new_rows, status = [], {}
