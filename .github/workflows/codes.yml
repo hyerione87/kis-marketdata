@@ -1,0 +1,30 @@
+name: KIS code master
+
+# 코드 파일만 받는 실행 (한투 API 호출·토큰 발급 없음)
+on:
+  push:
+    paths:
+      - kis_codes.py
+      - .github/workflows/codes.yml
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  codes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python kis_codes.py data
+      - name: Commit
+        run: |
+          git config user.name "kis-bot"
+          git config user.email "kis-bot@users.noreply.github.com"
+          git add data/master
+          git diff --cached --quiet || git commit -m "KIS code master $(TZ=Asia/Seoul date +%F)"
+          git push
