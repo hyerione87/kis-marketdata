@@ -1,0 +1,92 @@
+{
+ "run_at_kst": "2026-11-06T11:55:30+09:00",
+ "status": {
+  "SPX": {
+   "ok": true,
+   "code": "SPX",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 7353.73,
+    "chg_pct": -4.36
+   }
+  },
+  "COMP": {
+   "ok": true,
+   "code": "COMP",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 24315.0,
+    "chg_pct": -5.52
+   }
+  },
+  "DJI": {
+   "ok": true,
+   "code": ".DJI",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 51523.06,
+    "chg_pct": -3.44
+   }
+  },
+  "SSEC": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "HSI": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "N225": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "TWII": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "SENSEX": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "SX5E": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "DAX": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "FTSE": {
+   "ok": false,
+   "msg": "마스터에서 코드 못 찾음"
+  },
+  "KOSPI": {
+   "ok": true,
+   "code": "0001",
+   "rows": 50,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 5192.91,
+    "chg_pct": -3.55
+   }
+  },
+  "KOSDAQ": {
+   "ok": true,
+   "code": "1001",
+   "rows": 50,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 656.3,
+    "chg_pct": -3.26
+   }
+  }
+ }
+}

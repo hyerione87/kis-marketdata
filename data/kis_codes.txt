@@ -1,0 +1,297 @@
+FTSE	W	GB#FTSE	FTSE 100	영국지수
+DAX	W	GR#DAX	Frankfurt Dax	독일 DAX 30
+HSI	W	HK#HS	Hang Seng	항셍지수
+HSI	W	HK#HSSI	Hang Seng Composite SmallCap Index	항셍 종합 소형주
+HSI	W	HSCE	HangSengChinaEnterprise	홍콩H지수
+SENSEX	W	IN#BOMBAY	BSE 30	인도 SENSEX
+N225	W	JP#NI225	Nikkei Index	일본니케이 225지수
+SSEC	W	SHANG	Shanghai Composite	중국상해종합지수
+SX5E	W	SX5E	IND DJ EURO STOXX 50 Pr	유로STOXX50
+TWII	W	TW#WT	Taiwan Weighted	대만가권
+COMP	P	COMP	NASDAQ Composite	나스닥 종합
+(참고)	P	HUI	Amex GOLD BUGS INDEX	아멕스 금광업체지수
+SPX	P	SPX	S&P 500 INDEX	S&P500
+SPX	P	SPXLTBUP	S&P 500 Low Volatility Target Beta Inde	S&P500 Low Volatility Tar
+(참고)	P	XAU	GOLD AND SILVER SECTOR INDEX	필라델- 금/은 지수
+(참고)	Q	ABX	BARRICK GOLD CORP	BARRICK GOLD CORP
+(참고)	Q	DG	Dollar General Corp	달러 제너럴
+(참고)	Q	DGP	DEUTSCHE BANK GOLD DOUBLE LONG	DEUTSCHE BANK GOLD DOUBLE
+(참고)	Q	DLTR	Dollar Tree	달러 트리
+(참고)	Q	GDX	MARKET VECTORS GOLD MINERS	MARKET VECTORS GOLD MINER
+(참고)	Q	GLD	SPDR GOLD TRUST	SPDR GOLD TRUST
+(참고)	Q	GLL	PROSHARES ULTRASHORT GOLD	PROSHARES ULTRASHORT GOLD
+(참고)	Q	GS	Goldman Sachs Group	골드만 삭스
+(참고)	Q	HLF	HERBALIFE LIMITED USD COMMON SHA	HERBALIFE LIMITED USD COM
+SPX	Q	SDS	PROSHARES ULTRASHORT S&P500	PROSHARES ULTRASHORT S&P5
+SPX	Q	SH	PROSHARES SHORT S&P500	PROSHARES SHORT S&P500
+SPX	Q	SPY	SPDR S&P 500 ETF TRUST	SPDR S&P 500 ETF TRUST
+SPX	Q	SSO	PROSHARES ULTRA S&P500	PROSHARES ULTRA S&P500
+(참고)	Q	TMV	DIREXION DAILY 20+ YEAR TREASURY	DIREXION DAILY 20+ YEAR T
+(참고)	Q	UGL	PROSHARES ULTRA GOLD	PROSHARES ULTRA GOLD
+SPX	Q	VXX	IPATH S&P 500 VIX S/T FU ETN	IPATH S&P 500 VIX S/T FU
+SPX	Q	VXZ	IPATH S&P 500 VIX M/T FU ETN	IPATH S&P 500 VIX M/T FU
+(참고)	H	AU:ASL	AUSDRILL	AUSDRILL
+(참고)	H	CA#K	KINROSS GOLD CORP	KINROSS GOLD CORP
+(참고)	H	CA:ABX	BARRICK GOLD CORP-CN	BARRICK GOLD CORP-CN
+(참고)	H	CA:GEL	GLASS EARTH GOLD LTD	GLASS EARTH GOLD LTD
+(참고)	H	CH:501051	Golden Trust Sinopac Huili Mixed Invest	Golden Trust Sinopac Huil
+(참고)	H	CH:501300	HFT Global USD Income Bond F	HFT Global USD Income Bon
+HSI	H	CH:501301	FORTUNE SG HANG SENG CH LIST	FORTUNE SG HANG SENG CH L
+HSI	H	CH:501302	CHINA SOUTHERN HANGSENG ETF	CHINA SOUTHERN HANGSENG E
+HSI	H	CH:501303	GF HK CONNECT HANGSENG M-CAP	GF HK CONNECT HANGSENG M-
+SSEC	H	CH:510210	Fullgoal Shanghai Composite In	FULLGOAL SCI
+HSI	H	CH:510900	E Fund Hang Seng China Enterpr	E FUND CHINA ENT
+SSEC	H	CH:510980	China Universal Shanghai Composite Inde	China Universal Shanghai
+(참고)	H	CH:511130	Bosera SSE 30-Year China Treasury Bond	Bosera SSE 30-Year China
+(참고)	H	CH:511160	Tibet Eastmoney CSI 1-3 Year Treasury B	Tibet Eastmoney CSI 1-3 Y
+(참고)	H	CH:511520	Fullgoal ChinaBond 7-10 Year Treasury a	Fullgoal ChinaBond 7-10 Y
+(참고)	H	CH:511770	GOLDEN CASH PROFIT MMK-E	GOLDEN CASH PROFIT MMK-E
+N225	H	CH:513000	EFD NIKKO AST NIKKEI 225 ETF	EFD NIKKO AST NIKKEI 225
+HSI	H	CH:513010	E Fund Hang Seng TECH Index Exchange Tr	E Fund Hang Seng TECH Ind
+DAX	H	CH:513030	HuaAn International Leading DA	HUAAN-INT LD DAX EQUITY
+HSI	H	CH:513060	Bosera Hang Seng Healthcare Exchange Tr	Bosera Hang Seng Healthca
+HSI	H	CH:513130	Huatai-PB CSOP Hang Seng TECH Index Exc	Huatai-PB CSOP Hang Seng
+HSI	H	CH:513260	China Universal Hang Seng TECH Index Ex	China Universal Hang Seng
+HSI	H	CH:513280	China Universal Hang Seng Hong Kong-Lis	China Universal Hang Seng
+HSI	H	CH:513330	ChinaAMC Hang Seng Internet & Informati	ChinaAMC Hang Seng Intern
+HSI	H	CH:513380	GF Hang Seng Technology Exchange Traded	GF Hang Seng Technology E
+DJI	H	CH:513400	Penghua Dow Jones Industrials Average I	Penghua Dow Jones Industr
+SPX	H	CH:513500	Bosera Standard And Poor's 500	BOSERA S&P 500 E
+N225	H	CH:513520	HX NOMURA NIKKEI 225 ETF QDI	HX NOMURA NIKKEI 225 ETF
+HSI	H	CH:513580	Huaan Hang Seng TECH Index Exchange Tra	Huaan Hang Seng TECH Inde
+SPX	H	CH:513650	China Southern S&P 500 ETF(QDII)	China Southern S&P 500 ET
+HSI	H	CH:513690	Bosera Hang Seng High Dividend Yield ET	Bosera Hang Seng High Div
+N225	H	CH:513880	HUAAN UFJ NIKKEI 225 ETF QDI	HUAAN UFJ NIKKEI 225 ETF
+HSI	H	CH:513890	CIFM Hang Seng TECH Index Exchange Trad	CIFM Hang Seng TECH Index
+HSI	H	CH:513950	Fullgoal Hang Seng SCHK High Dividend L	Fullgoal Hang Seng SCHK H
+HSI	H	CH:513970	INVESCO Great Wall Hang Seng Consumptio	INVESCO Great Wall Hang S
+HSI	H	CH:517380	Tianhong Hang Seng Shanghai-Shenzhen-H.	Tianhong Hang Seng Shangh
+(참고)	H	CH:517400	Guotai CSI SH-SZ-HK Gold Industry Equit	Guotai CSI SH-SZ-HK Gold
+(참고)	H	CH:518600	GF Shanghai Gold ETF	GF Shanghai Gold ETF
+(참고)	H	CH:518660	ICBCCS Gold Exchange Traded Fund	ICBCCS Gold Exchange Trad
+(참고)	H	CH:518680	FULLGOAL SHANGHAI GOLD ETF	FULLGOAL SHANGHAI GOLD ET
+(참고)	H	CH:518800	Guotai Gold ETF	GUOTAI-GOLD ETF
+(참고)	H	CH:518850	ChinaAMC Gold Exchange Traded Fund	ChinaAMC Gold Exchange Tr
+(참고)	H	CH:518860	CCB Shanghai Gold ETF	CCB Shanghai Gold ETF
+(참고)	H	CH:518880	Huaan Yifu Gold ETF	HUAAN-YIFU GOLD
+(참고)	H	CH:518890	BOC Shanghai Gold ETF	BOC Shanghai Gold ETF
+HSI	H	CH:520500	Huatai-PB Hang Seng Innovative Medicine	Huatai-PB Hang Seng Innov
+HSI	H	CH:520520	Huatai-PB Hang Seng Consumption ETF(QDI	Huatai-PB Hang Seng Consu
+HSI	H	CH:520550	CMF Hang Seng Hong Kong Stock Connect H	CMF Hang Seng Hong Kong S
+HSI	H	CH:520590	Penghua Hang Seng TECH ETF QDII QDII	Penghua Hang Seng TECH ET
+HSI	H	CH:561380	Guotai HangSeng A-share Power Grid Equi	Guotai HangSeng A-share P
+HSI	H	CH:563210	Fullgoal Hang Seng China A Specialised	Fullgoal Hang Seng China
+(참고)	H	CH:600199	Anhui Golden Seed Winery Co Ltd	금종자주류
+(참고)	H	CH:600232	Zhejiang Golden Eagle Co Ltd	절강금응
+(참고)	H	CH:600281	Shanxi Huayang New Material Co Ltd	태원화학
+(참고)	H	CH:600489	Zhongjin Gold Corp Ltd	중금황금
+(참고)	H	CH:600531	Henan Yuguang Gold & Lead Co Ltd	하남예광금&연
+(참고)	H	CH:600547	Shandong Gold Mining Co Ltd	산동황금광업
+(참고)	H	CH:600678	Sichuan Golden Summit Group Co Ltd	사천금정
+(참고)	H	CH:600916	China National Gold Group Gold Jeweller	CHINA NATIONAL G.J
+(참고)	H	CH:600988	Chifeng Jilong Gold Mining Group Ltd	치펑 지룽 황금 광업
+(참고)	H	CH:601028	Shandong Yulong Gold Co Ltd	옥룡강관
+(참고)	H	CH:601069	Western Region Gold Co Ltd	서부황금
+(참고)	H	CH:603180	Goldenhome Living Co Ltd	금패인테리어
+(참고)	H	CH:603270	Shandong Golden Empire Precision Machin	Shandong Golden Empire Pr
+(참고)	H	CH:603311	Zhejiang Goldensea Hi-Tech Co Ltd	금해환경
+(참고)	H	CH:603586	Shandong Gold Phoenix Co Ltd	산동금기린
+(참고)	H	CH:603682	Shanghai Golden Union Commercial Manage	SHANGHAI GOLDEN UNd
+(참고)	H	CH:603918	Shanghai Golden Bridge InfoTech Co Ltd	금교인포테크
+(참고)	H	CH:688750	Hunan Xiangtou Goldsky Titanium Industr	Hunan Xiangtou Goldsky Ti
+(참고)	H	CZ:000506	Zhaojin International Gold Co Ltd	중윤자원투자
+(참고)	H	CZ:000712	Guangdong Golden Dragon Development Inc	금룡개발
+(참고)	H	CZ:000766	Tonghua Golden-horse Pharmaceutical Ind	통화금마제약
+(참고)	H	CZ:000975	Shanjin International Gold Co Ltd	은태자원
+(참고)	H	CZ:001221	Higold Group Co Ltd	HIGOLD
+(참고)	H	CZ:001337	Sichuan Gold Co Ltd	SC GOLD
+DAX	H	CZ:002002	Hongda Xingye Co Ltd	홍달흥업
+(참고)	H	CZ:002081	Suzhou Gold Mantis Construction Decorat	금당랑 Ltd
+(참고)	H	CZ:002155	Hunan Gold Corp Ltd	호남황금
+(참고)	H	CZ:002202	Goldwind Science & Technology Co Ltd	금풍과기
+(참고)	H	CZ:002305	Langold Real Estate Co Ltd	남국부동산
+(참고)	H	CZ:002348	Goldlok Holdings (Guangdong) Co Ltd	고악완구그룹
+(참고)	H	CZ:002533	Goldcup Electric Apparatus Co Ltd	금배전공
+(참고)	H	CZ:002636	Goldenmax International Group Ltd	금안국기
+(참고)	H	CZ:002731	Shenyang Cuihua Gold and Silver Jewelry	췌화주얼리
+(참고)	H	CZ:002805	Shandong Fengyuan Chemical Co Ltd	봉원화학
+HSI	H	CZ:150169	CUAMHangsengA	CUAM Hangseng A
+HSI	H	CZ:150170	CUAMHangsengB	CUAM Hangseng B
+HSI	H	CZ:159109	Hang Seng 50	Hang Seng 50
+HSI	H	CZ:159239	HangSeng Automobile	HangSeng Automobile
+HSI	H	CZ:159271	Hang Seng Index	Hang Seng Index
+HSI	H	CZ:159303	Hangseng Healthcare	Hangseng Healthcare
+(참고)	H	CZ:159315	Gold Equity	Gold Equity
+(참고)	H	CZ:159321	Gold Equity ETF	Gold Equity ETF
+(참고)	H	CZ:159322	GOLDINDUSTRYETF	GOLDINDUSTRYETF
+HSI	H	CZ:159506	Hang Seng HealthCare	Hang Seng HealthCare
+DAX	H	CZ:159561	DAX ETF	DAX ETF
+(참고)	H	CZ:159562	Gold Stock ETF	Gold Stock ETF
+SPX	H	CZ:159655	S&P500ETF	S&P500ETF
+HSI	H	CZ:159740	Hangseng Tech	Hangseng Tech
+(참고)	H	CZ:159812	GOLD ETF	GOLD ETF
+(참고)	H	CZ:159831	GOLD	GOLD
+(참고)	H	CZ:159934	EfundGoldETF	Efund Gold ETF
+(참고)	H	CZ:159937	BoseraGold	Bosera Gold
+HSI	H	CZ:159963	Hang Seng China	Hang Seng China
+(참고)	H	CZ:160719	HARVESTGOLDLOF	Harvest Gold LOF
+(참고)	H	CZ:161116	EFUNDGOLDLOF	EFund Gold LOF
+SPX	H	CZ:161125	EFundS&P500	EFundS&P500
+(참고)	H	CZ:162107	GOLDEN EAGLE QUANT	GOLDEN EAGLE QUANT
+HSI	H	CZ:164705	CUAMHangsengIndex	CUAMHangsengIndex
+(참고)	H	CZ:166011	LombardaChinaGolde	LombardaChinaGolde
+(참고)	H	CZ:300018	Wuhan Zhongyuan Huadian Science & Techn	중원화력발전
+(참고)	H	CZ:300220	Wuhan Golden Laser Co Ltd	금운레이저
+(참고)	H	CZ:300349	Goldcard Smart Group Co Ltd	금잡지능그룹
+(참고)	H	CZ:300434	Sichuan Goldstone Asia Pharmaceutical I	금석동방신소재
+(참고)	H	CZ:300606	Dongguan Golden Sun Abrasives Co Ltd	금태양연마
+(참고)	H	CZ:300619	Foshan Golden Milky Way Intelligent Equ	금은하지능장비
+(참고)	H	CZ:301052	Goldmye Inc	GUOMAI
+(참고)	H	CZ:301669	Hangzhou Gold Electronic Equipment Co L	GOLD ELECTRONIC
+HSI	H	HK:0011	HANG SENG BANK	항셍은행
+(참고)	H	HK:0040	GOLD PEAK	금산공업
+(참고)	H	HK:0070	RICH GOLDMAN	금월홀딩스
+(참고)	H	HK:0246	REALGOLD MINING	서금광업
+(참고)	H	HK:0533	GOLDLION HOLD	골드라이온지주
+(참고)	H	HK:0621	TAUNG GOLD	단금광업
+(참고)	H	HK:0677	GOLDEN RES DEV	금원미업국제
+(참고)	H	HK:0801	GOLDEN MEDITECH	골든 메디테크 홀딩스
+(참고)	H	HK:1282	CHINA GOLDJOY	중국금양
+(참고)	H	HK:1783	GOLDEN PONDER	금륜홀딩스
+(참고)	H	HK:1787	SD GOLD	산동황금광업
+(참고)	H	HK:2099	CHINAGOLDINTL	차이나 골드 인터내셔널 리소시
+(참고)	H	HK:2208	Xinjiang Goldwind Science &, Technology	금풍테크놀로지
+(참고)	H	HK:2259	Zijin Gold International Co. Ltd.	Zijin Gold International
+HSI	H	HK:2828	HS H ETF	HANG SENG H-SHARE IND ETF
+(참고)	H	HK:2830	ETFS GOLD	ETFS GOLD
+SENSEX	H	HK:2836	ISHARES INDIA	아이셰어즈코어 S&P BSE 센섹스
+HSI	H	HK:2838	HS FCI50 ETF	Hang Seng Investment Inde
+(참고)	H	HK:2840	SPDR GOLD TRUST	SPDR 골드 셰어즈
+FTSE	H	HK:2847	ISHARESFS100	ISHARES FTSE 100 INDEX ET
+(참고)	H	HK:2863	GOLDEN FAITH GP	고풍그룹
+(참고)	H	HK:2970	GOLDENMARS-OLD	DETEAM CO LTD
+HSI	H	HK:3012	AMUNDI HK35	Amundi Hang Seng HK 35 In
+(참고)	H	HK:3081	VALUEGOLD ETF	ValueGold ETF
+(참고)	H	HK:3096	CSOP USD MM	CSOP USD MM
+(참고)	H	HK:3116	XIE GOLD MINERS	XIE GOLD MINERS
+HSI	H	HK:3128	HS AINDTOPETF	Hang Seng China A Share E
+SPX	H	HK:3140	VG S&P 500	VG S&P500지수ETF
+DAX	H	HK:3146	ISHARESDAX	ISHARES DAX INDEX ETF-HKD
+SX5E	H	HK:3155	ISHARESES50	ISHARES EURO STOXX 50 ETF
+DAX	H	HK:3171	COMSTAGE DAX	ComStage 1 DAX UCITS ETF
+DAX	H	HK:3177	COMSTAGE DIVDAX	ComStage 1 DivDAX UCITS E
+SPX	H	HK:3195	HS S&P500	HS S&P500
+(참고)	H	HK:3196	A BOS USD MM	A BOS USD MM
+(참고)	H	HK:3308	GOLDEN EAGLE	골든 이글 리테일 그룹
+(참고)	H	HK:3315	GOLDPAC GROUP	골드팩 그룹
+(참고)	H	HK:3330	LINGBAO GOLD	링바오골드
+(참고)	H	HK:3411	PP ASIA IGUSD	PP ASIA IGUSD
+SPX	H	HK:3415	A GXS&P500CC	A GXS&P500CC
+(참고)	H	HK:3418	CAM DIGI GOLD	CAM DIGI GOLD
+HSI	H	HK:3444	Hang Seng FTSE Hong Kong Equity ETF	Hang Seng FTSE Hong Kong
+(참고)	H	HK:3472	A CAM USDTMMF	A CAM USDTMMF
+(참고)	H	HK:3480	A VP USD MM	A VP USD MM
+HSI	H	HK:3519	Hang Seng HSCEI Covered Call Active ETF	Hang Seng HSCEI Covered C
+(참고)	H	HK:3533	XA GX GOLD CC	XA GX GOLD CC
+HSI	H	HK:3589	Hang Seng TECH Covered Call Active ETF	Hang Seng TECH Covered Ca
+(참고)	H	HK:3638	GOLDENMARS	화방금융
+(참고)	H	HK:3919	GOLDENPOWER	금력그룹
+(참고)	H	HK:41533	Global X Gold Covered Call Active ETF	Global X Gold Covered Cal
+(참고)	H	HK:4603	ICBC USDPREF1	ICBC USDPREF1
+(참고)	H	HK:4606	CCB 15USDPREF	CCB 15USDPREF
+(참고)	H	HK:4607	CINDA 16USDPREF	CINDA 16USDPREF
+(참고)	H	HK:4608	HSBNK 16USDPREF	HSBNK 16USDPREF
+(참고)	H	HK:4609	CMBC 16USDPREF	CMBC 16USDPREF
+(참고)	H	HK:4610	CZB 17USDPREF	CZB 17USDPREF
+(참고)	H	HK:4611	BQD 17USDPREF	청도은행 미화 5.5% 우선주
+(참고)	H	HK:4612	PSBC 17USDPREF	중국우정저축은행 미화 4.5% 우선주
+(참고)	H	HK:4613	ZZBNK 17USDPREF	ZZBNK 17USDPREF
+(참고)	H	HK:4614	CMB 17USDPREF	CMB 17USDPREF
+(참고)	H	HK:4615	BOJZ 17USDPREF	BOJZ 17USDPREF
+(참고)	H	HK:4616	BANK OF CHONGQING CO USD5.40% NON-CUM P	중경은행 미화 5.40% 우선주
+(참고)	H	HK:4617	ZYBNK 18USDPREF	ZYBNK 18USDPREF
+(참고)	H	HK:4618	GRCB 19USDPREF	GRCB 19USDPREF
+(참고)	H	HK:4619	BOC 20USDPREF	BOC 20USDPREF
+(참고)	H	HK:4620	ICBC 20USDPREF	ICBC 20USDPREF
+(참고)	H	HK:4621	CINDA 21USDPREF	CINDA 21USDPREF
+(참고)	H	HK:6181	LAOPU GOLD	LAOPU GOLD
+(참고)	H	HK:6228	MERDEKAGOLD-DRS	MERDEKAGOLD-DRS
+(참고)	H	HK:6693	CHIFENG GOLD	CHIFENG GOLD
+(참고)	H	HK:6896	GOLDEN THROAT	골든 스로트 홀딩스 그룹
+(참고)	H	HK:7299	CSOP Gold Futures Daily (2x) Leveraged	CSOP Gold Futures Daily (
+DAX	H	HK:7788	XL2CSOPNVDA	XL2CSOPNVDA
+HSI	H	HK:80011	HANGSENG BANK-R	HANGSENG BANK-R
+(참고)	H	HK:8160	GOLDWAY EDU	골드웨이에듀
+(참고)	H	HK:8281	CH GOLD CLASSIC	중극금전그룹
+(참고)	H	HK:82824	EFUND GOLD MI-R	EFUND GOLD MI-R
+(참고)	H	HK:82840	SPDR GOLD TRT-R	SPDR GOLD TRT-R
+(참고)	H	HK:8299	GRAND T G GOLD	대당종금
+(참고)	H	HK:83001	PP CNUSDPROP-R	PP CNUSDPROP-R
+(참고)	H	HK:83081	VALUEGOLD ETF-R	VALUEGOLD ETF-R
+DAX	H	HK:83146	ISHARESDAX-R	ISHARESDAX-R
+(참고)	H	HK:83196	A BOS USD MM-R	A BOS USD MM-R
+(참고)	H	HK:83418	CAM DIGI GOLD-R	CAM DIGI GOLD-R
+(참고)	H	HK:8549	GOLDEN LEAF INT	GOLDEN LEAF INT
+(참고)	H	HK:9001	PP CNUSDPROP-U	PP CNUSDPROP-U
+(참고)	H	HK:9002	A MBC BTCGOLD-U	A MBC BTCGOLD-U
+(참고)	H	HK:9011	A ICBCCICCUSD-U	A ICBCCICCUSD-U
+(참고)	H	HK:9075	GX ASUSD BOND-U	GX ASUSD BOND-U
+(참고)	H	HK:9081	VALUEGOLD ETF-USD	VALUEGOLD ETF-USD
+(참고)	H	HK:9091	Nikkoam E-Games Active ETF USD	Nikkoam E-Games Active ET
+(참고)	H	HK:9096	CSOP USD MM-U	CSOP USD MM-U
+DAX	H	HK:9146	ISHARESDAX-U	ISHARES DAX INDEX ETF-USD
+(참고)	H	HK:9176	A TK USD MM-U	A TK USD MM-U
+SPX	H	HK:9195	HS S&P500-U	HS S&P500-U
+(참고)	H	HK:9196	A BOS USD MM-U	A BOS USD MM-U
+(참고)	H	HK:9411	PP ASIA IGUSD-U	PP ASIA IGUSD-U
+SPX	H	HK:9415	A GXS&P500CC-U	A GXS&P500CC-U
+(참고)	H	HK:9418	ChinaAMC Digital Gold ETF	ChinaAMC Digital Gold ETF
+(참고)	H	HK:9472	A CAM USDTMMF-U	A CAM USDTMMF-U
+(참고)	H	HK:9480	A VP USD MM-U	A VP USD MM-U
+(참고)	H	HK:9824	EFUND GOLD MI-U	EFUND GOLD MI-U
+(참고)	H	HK:9840	SPDR GOLD TRT-U	SPDR GOLD TRT-U
+(참고)	H	OB:GPXM	GOLDEN PHOENIX MINERALS INC	GOLDEN PHOENIX MINERALS I
+(참고)	H	OB:LSTG	LONE STAR GOLD INC	LONE STAR GOLD INC
+SPX	F	EDNH	E-Mini S&P 500 Index Futures	E-Mini S&P 500 지수선물
+(참고)	C	GOLDLNPM	GOLD($/ounce)-London	LBMA, 런던 금 현물 (USD)
+(참고)	C	NYGOLD	Gold (COMEX)	COMEX, 뉴욕 금 (USD)
+(참고)	C	SLVRLN	LBMA Silver Price (USD)	LBMA, 런던 은 현물 (USD)
+(참고)	C	XAUUSDCOMP	GOLD($/ounce)-Merningstar	Tenfore, 국제금가격 (USD)
+(참고)	X	FX@ARS	아르헨티나	페소/달러
+(참고)	X	FX@AUD	호주	달러/호주달러
+(참고)	X	FX@BRL	브라질	레알/달러
+(참고)	X	FX@CAD	캐나다	캐나다달러/달러
+(참고)	X	FX@CHF	스위스	프랑/달러
+(참고)	X	FX@CNY	중국	위엔/달러
+(참고)	X	FX@CZK	체코	코루나/달러
+(참고)	X	FX@DKK	덴마크	크로네/달러
+(참고)	X	FX@EUR	유럽연합	달러/유로
+(참고)	X	FX@GBP	영국	달러/파운드
+(참고)	X	FX@HKD	홍콩	홍콩달러/달러
+(참고)	X	FX@HUF	헝가리	포린트/달러
+(참고)	X	FX@IDR	인도	루피/달러
+(참고)	X	FX@INR	인도네시아	루피아/달러
+(참고)	X	FX@JPY	일본	엔/달러
+(참고)	X	FX@KRW	대한민국	원/달러(KMB)
+(참고)	X	FX@KRWKFTC	대한민국	원/달러
+(참고)	X	FX@KWD	쿠웨이트	디나르/달러
+(참고)	X	FX@MXN	멕시코	누에바페소/달러
+(참고)	X	FX@MYR	말레이지아	링기트/달러
+(참고)	X	FX@NOK	노르웨이	크로네/달러
+(참고)	X	FX@NZD	뉴질랜드	달러/뉴질랜드달러
+(참고)	X	FX@PHP	필리핀	페소/달러
+(참고)	X	FX@PLN	폴란드	즐로티/달러
+(참고)	X	FX@PSA	칠레	페소/달러
+(참고)	X	FX@RUR	러시아	루블/달러
+(참고)	X	FX@SAR	사우디	리알/달러
+(참고)	X	FX@SEK	스웨덴	크로나/달러
+(참고)	X	FX@SGD	싱가포르	싱가포르달러/달러
+(참고)	X	FX@THB	태국	바트/달러
+(참고)	X	FX@TRY	터키	리라/달러
+(참고)	X	FX@TWD	대만	대만달러/달러
+(참고)	X	FX@VEB	베네주엘라	볼리바르/달러
+(참고)	X	FX@VND	베트남	동/달러
+(참고)	X	FX@ZAR	남아공	랜드/달러
+(참고)	E	M0101	GOLD 100 OZ, COMEX (F)	금뉴욕근월물
+(참고)	B	Y0201	US Treasury 30 Years(Y)	미국 30년T-BOND
+(참고)	B	Y0207	JP Treasury 10 Years(Y)	일본 10년 국채수익률
