@@ -1,0 +1,31 @@
+name: KIS market data
+
+on:
+  schedule:
+    - cron: "50 21 * * 0-4"   # 평일 06:50 KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch KIS quotes
+        env:
+          KIS_APPKEY: ${{ secrets.KIS_APPKEY }}
+          KIS_APPSECRET: ${{ secrets.KIS_APPSECRET }}
+        run: python kis_fetch.py data
+      - name: Commit data
+        run: |
+          git config user.name "kis-bot"
+          git config user.email "kis-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "KIS data $(TZ=Asia/Seoul date +%F)"
+          git push
