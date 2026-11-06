@@ -1,0 +1,214 @@
+구분	코드	영문명	한글명
+W	ATX	ATX	오스트리아 ATX
+W	AUD#XAO	Australia All Ordinaries	호주 AOI
+W	BEL#BEL	BEL-20	벨기에 BEL-20
+W	BR#BOVE	Bovespa	브라질 BOVESPA
+W	CAN#COM	CAD	캐나다 S&P/TSX
+W	CH#000300	CSI300 INDEX	CSI 300
+W	CH#000905	CSI500 INDEX	CSI 500
+W	CH#000906	CSI800 INDEX	CSI 800
+W	CH#SHA	ShanghaiAShare	상해A지수
+W	CH#SHB	ShanghaiBShare	상해B지수
+W	CH#SZA	ShenzhenAShare	심천A지수
+W	CH#SZB	ShenzhenBShare	심천B지수
+W	CL#IGPA	IPSA	칠레 IPSA
+W	CZ#399101	SME COMP INX	심천 중소기업 지수
+W	CZ#399102	CHINEXT COMPOSITE	심천 ChiNext 지수
+W	DEN#KFX	KFX	덴마크 코펜하겐 20
+W	FR#CAC	Paris CAC 40	프랑스 CAC 40
+W	GB#FTSE	FTSE 100	영국지수
+W	GR#ASE	General Shares	그리스 ASE
+W	GR#DAX	Frankfurt Dax	독일 DAX 30
+W	HK#HS	Hang Seng	항셍지수
+W	HK#HSSI	Hang Seng Composite SmallCap Index	항셍 종합 소형주
+W	HSCE	HangSengChinaEnterprise	홍콩H지수
+W	ID#JK	Jakarta Composite	인도네시아 종합
+W	IN#BOMBAY	BSE 30	인도 SENSEX
+W	JP#NI225	Nikkei Index	일본니케이 225지수
+W	KOSPI	KOSPI	한국코스피지수
+W	MERV	MerVal	아르헨티나 MERVAL
+W	MY#KLSE	Kuala Lumpur Composite	말레이시아 KLCI
+W	NL#AEX	Netherlands(AEXGeneral)	네덜란드 AEX
+W	NZ#NZSE	NZ Top 50 Cap	뉴질랜드 NZ50
+W	PH#MANILA	PSE Composite	필리핀 PSEi Composite
+W	POL#WIG	WIG	폴란드 WIG
+W	PT#PSI	Portuguese Stock Index 20	포르투갈PSI 20
+W	SHANG	Shanghai Composite	중국상해종합지수
+W	SPN#IBEX	IBEX-35	스페인 IBEX-35
+W	SW#SM	Swiss Market	스위스 SMI
+W	SX5E	IND DJ EURO STOXX 50 Pr	유로STOXX50
+W	SX7E	EURO STOXX BANKS	유로STOXX BANKS
+W	SXAXPI	Stockholm General	스웨덴 OMX Stockholm
+W	TH#BANG	Thailand SET	태국 SET
+W	TR#IMKB	IMKB-100	터키 ISE100
+W	TW#WT	Taiwan Weighted	대만가권
+W	VEB	Venezuelan Bolivar VEB	베네주엘라 카라카스
+W	VN#VNI	HO CHI MINH STOCK INDEX	베트남 호치민
+P	BANK	NASDAQ Bank	나스닥 은행
+P	COMP	NASDAQ Composite	나스닥 종합
+P	DRG	Amex Pharmaceutical Index	아멕스 제약 지수
+P	HUI	Amex GOLD BUGS INDEX	아멕스 금광업체지수
+P	HWI	Amex Computer /Hardware index	아멕스컴퓨터/하드웨어
+P	INDS	NASDAQ INDUSTRIAL INDEX	나스닥 공업지수
+P	INSR	NASDAQ OTC Index - Insurance	나스닥 보험
+P	IXCO	NASDAQ Computer Index	나스닥 컴퓨터
+P	IXF	NASDAQ Financial 100 Index	나스닥 금융100지수
+P	IXHC	NASDAQ HealthCare	나스닥 헬스케어
+P	IXTC	NASDAQ Information Telecom	나스닥 정보통신
+P	JPN	Amex JAPAN INDEX	아멕스 일본지수
+P	MXY	Amex MEXICO INDEX	아멕스 멕시코지수
+P	NBI	NASDAQ Bio	나스닥 생명공학
+P	NDX	NASDAQ-100 (DRM)	나스닥 100
+P	OEX	S&P 100 INDEX	S&P 100지수
+P	OFIN	NASDAQ OTC Index - Other Financial	나스닥 OTC Index - 기타금융
+P	OSX	PHLX OIL SERVICE SECTOR INDEX	필라델 원유 서버스 지수
+P	SOX	PHLX SEMICONDUCTOR SECTOR INDEX	필라델피아 반도체지수
+P	SPX	S&P 500 INDEX	S&P500
+P	SPXLTBUP	S&P 500 Low Volatility Target Beta Inde	S&P500 Low Volatility Tar
+P	TOB	Amex TOBACCO INDEX	아멕스 담배지수
+P	TRAN	NASDAQ Transportation	나스닥 운송
+P	UTY	UTILITY SECTOR INDEX	필라델- 유틸리티 지수
+P	VIX	Volatility Index	VIX 지수
+P	XAL	Amex AIRLINE INDEX	아멕스 항공지수
+P	XAU	GOLD AND SILVER SECTOR INDEX	필라델- 금/은 지수
+P	XBD	Amex Securities Broker/Dealer	아멕스 증권/브로커
+P	XCI	Amex Computer Technology Index	아멕스 컴퓨터기술지수
+P	XII	Amex INSTITUTIONAL I	아멕스 기관투자자지수
+P	XLY	AMEX Consumer Discretionary SPDR	아멕스 임의소비재 SPDR
+P	XNDXL	NASDAQ-100 Leveraged Total Return Index	NASDAQ-100 Leveraged Tota
+P	XNDXS1	NASDAQ-100 1x Short Total Return Index	NASDAQ-100 1x Short Total
+P	XNDXS2	NASDAQ-100 2x Short Total Return Index	NASDAQ-100 2x Short Total
+P	XNG	Amex Natural Gas Index	아멕스 천연가스 지수
+P	XOI	Amex Oil Index	아멕스 원유
+P	XTC	Amex North American Telecom Index	아멕스 북미통신 지수
+D	GRVY	GRAVITY Co.	그라비티
+D	KB	KB FINL GP INC	KB금융
+D	KEP	KOREA ELEC PWR	한국전력
+D	KT	KT CORP	KT
+D	LPL	LG DISPLAY	LG디스플레이
+D	PKX	POSCO	포스코
+D	SHG	SHINHAN FIN.ADS ADS	신한지주(그룹)
+D	SKHY	SK Hynix Inc	SK하이닉스
+D	SKM	SK TELECOM CO	SK텔레콤
+D	WF	WF	우리금융지주
+G	HYXD	HYNIX GDR GDR	하이닉스
+G	IBK	Industrial Bank of Korea	기업은행
+G	KTGD	KT&G CORP GDS GDS	KT&G
+G	LGLD	LG ELEC GDS S GDS	LG전자(우)
+G	SDVD	SAMSUNG SDI GDS GDS	삼성SDI
+G	SMSD	SAMSUNG EL.GDS GDS	삼성전자(우)
+G	SMSN	SAMSUNG EL.GDR GDR	삼성전자
+F	EDNH	E-Mini S&P 500 Index Futures	E-Mini S&P 500 지수선물
+F	ENXH	E-Mini Nasdaq 100 Index Futures	E-Mini Nasdaq 100 지수선물
+C	BRENTF	BRENT CRUDE OIL IPE	Brent, 북해산 근월 (USD)
+C	CHICORN	Corn (CBOT)	CBOT, 시카고 옥수수 (USD)
+C	COFFE	Coffee (NYBOT)	NYBOT, 뉴욕 커피 (USD)
+C	COTTON	Cotton (NYBOT)	NYBOT, 뉴욕 면 (USD)
+C	DUBAIF	Dubai-Oil	Dubai, 두바이유 현물 (USD)
+C	GOLDLNPM	GOLD($/ounce)-London	LBMA, 런던 금 현물 (USD)
+C	LMEALC	Aluminum-Spot LME	LME, 런던 알루미늄 현물 (USD)
+C	LMECOC	Copper-Spot LME	LME, 런던 동 현물 (USD)
+C	LMEZINC	Zinc-Spot LME	LME, 런던 아연 현물 (USD)
+C	NYGOLD	Gold (COMEX)	COMEX, 뉴욕 금 (USD)
+C	NYSILV	Silver (COMEX)	COMEX, 뉴욕 은 (USD)
+C	SLVRLN	LBMA Silver Price (USD)	LBMA, 런던 은 현물 (USD)
+C	WTIF	CRUDE OIL, LIGHT SWEET NYMEX	WTI, 서부텍사스산 근월 (USD)
+C	XAUUSDCOMP	GOLD($/ounce)-Merningstar	Tenfore, 국제금가격 (USD)
+M	3D4G5128	DDR3 4Gb 512Mx8 1333/1600MHz	DDR3 4Gb 512Mx8 1333/1600
+M	3D8G51216	DDR3 8Gb 512M*16 1600 MHZ	DDR3 8Gb 512M*16 1600 MHZ
+M	4D8G182	DDR4 8Gb 1Gx8 2133 MHZ	DDR4 8Gb 1Gx8 2133 MHZ
+M	N8108S	NAND 8Gb 1Gx8 (SLC)	NAND 8Gb 1Gx8 (SLC)
+X	FX@ARS	아르헨티나	페소/달러
+X	FX@AUD	호주	달러/호주달러
+X	FX@BRL	브라질	레알/달러
+X	FX@CAD	캐나다	캐나다달러/달러
+X	FX@CHF	스위스	프랑/달러
+X	FX@CNY	중국	위엔/달러
+X	FX@CZK	체코	코루나/달러
+X	FX@DKK	덴마크	크로네/달러
+X	FX@EUR	유럽연합	달러/유로
+X	FX@GBP	영국	달러/파운드
+X	FX@HKD	홍콩	홍콩달러/달러
+X	FX@HUF	헝가리	포린트/달러
+X	FX@IDR	인도	루피/달러
+X	FX@INR	인도네시아	루피아/달러
+X	FX@JPY	일본	엔/달러
+X	FX@KRW	대한민국	원/달러(KMB)
+X	FX@KRWJS	대한민국	원/엔
+X	FX@KRWKFTC	대한민국	원/달러
+X	FX@KWD	쿠웨이트	디나르/달러
+X	FX@MXN	멕시코	누에바페소/달러
+X	FX@MYR	말레이지아	링기트/달러
+X	FX@NOK	노르웨이	크로네/달러
+X	FX@NZD	뉴질랜드	달러/뉴질랜드달러
+X	FX@PHP	필리핀	페소/달러
+X	FX@PLN	폴란드	즐로티/달러
+X	FX@PSA	칠레	페소/달러
+X	FX@RUR	러시아	루블/달러
+X	FX@SAR	사우디	리알/달러
+X	FX@SEK	스웨덴	크로나/달러
+X	FX@SGD	싱가포르	싱가포르달러/달러
+X	FX@THB	태국	바트/달러
+X	FX@TRY	터키	리라/달러
+X	FX@TWD	대만	대만달러/달러
+X	FX@VEB	베네주엘라	볼리바르/달러
+X	FX@VND	베트남	동/달러
+X	FX@ZAR	남아공	랜드/달러
+E	M0101	GOLD 100 OZ, COMEX (F)	금뉴욕근월물
+E	M0102	SILVER 5000 OZ, COMEX (F)	은뉴욕근월물
+E	M0103	PLATINUM NYMEX (F)	백금뉴욕근월물
+E	M0104	PALLADIUM NYMEX (F)	팔라디움뉴욕근월물
+E	M0201	LME COPPER GRD A DLR COMP CHSH	동LME현물
+E	M0202	LME, COPPER GRD A DLR 3M	동LME선물
+E	M0203	COPPER HIGH GRADE, COMEX	동뉴욕근월물
+E	M0204	LME ALUMINUM HG DLR COMP CASH	알루미늄LME현물
+E	M0205	LME ALUMINUM HG DLR COMP 3M	알루미늄LME3개월
+E	M0206	LME ZINC SHG DLR COMP CASH	아연LME현물
+E	M0207	LME ZINC SHG DLR COMP 3M	아연LME3개월
+E	M0208	LME NICKEL DLR COMP CASH	니켈LME현물
+E	M0209	LME NICKEL DLR COMP 3M	니켈LME3개월
+E	M0210	LME TIN DLR COMP CASH	주석LME현물
+E	M0211	LME TIN DLR COMP 3M	주석LME3개월
+E	M0212	LME LEAD DLR COMP CASH	연LME현물
+E	M0213	LME LEAD DLR COMP 3M	연LME3개월
+E	M0301	CORN PIT CBOT	옥수수 시카고근월물
+E	M0302	WHEAT PIT CBOT	소맥 시카고근월물
+E	M0303	SOYBEAN PIT CBOT	대두 시카고 근월물
+E	M0304	SOYBEAN MEAL PIT CBOT	대두박 시카고근월물
+E	M0305	SOYBEAN OIL PITCBOT	대두유 시카고근월물
+E	M0306	OATS PIT CBOT	귀리 시카고근월물
+E	M0307	COFFEE "C" NYBOT	커피 뉴욕근월물
+E	M0308	COCOA NYBOT	코코아 뉴욕근월물
+E	M0309	SUGAR, WORLD NO 11 FUTURES	설탕 뉴욕근월물
+E	M0310	COTTON NO.2 NYBOT	원면 뉴욕근월물
+E	M0401	CRUDE OIL, LIGHT SWEET NYMEX	WTI 뉴욕현물
+E	M0402	CRUDE OIL, LIGHT SWEET NYMEX	WTI 뉴욕근월물
+E	M0403	DUBAI CRUDE OIL CASH GLOBAL	두바이유 선물
+E	M0404	BRENT CRUDE OIL IPE	Brent 현물
+E	M0405	BRENT CRUDE OIL IPE	Brent 근월물
+R	Y0101		국고채 3년
+R	Y0102		회사채 무보증 3년AA-
+R	Y0103		회사채 3년 BBB-
+R	Y0104		국고채 1년
+R	Y0105		국고채 5년
+R	Y0106		국고채 10년
+R	Y0107		국민주택1종 (5년)
+R	Y0108		한전채(3년)
+R	Y0109		통안증권(364일)
+R	Y0110		통안증권(2년)
+R	Y0111		산금채(1년)
+R	Y0112		C D (91일)
+R	Y0113		C P (91일)
+R	Y0114		콜 (1일)
+R	Y0115		종합채권지수
+R	Y0116		국고채 20년
+R	Y0117		국고채 30년
+R	Y0198		Call 지수
+R	Y0199		CD AAA 3개월(13주)
+B	Y0201	US Treasury 30 Years(Y)	미국 30년T-BOND
+B	Y0202	US T-Note 10 Years(Y)	미국 10년T-NOTE 수익률
+B	Y0203	US T-Bill 1Year(Y)	미국 1년T-BILL
+B	Y0204	Fed Fund	미국 연방기금금리(콜)
+B	Y0205	US Discount Rate	미국 재할인률
+B	Y0206	US Prim Rate	미국 단기우대금리
+B	Y0207	JP Treasury 10 Years(Y)	일본 10년 국채수익률
