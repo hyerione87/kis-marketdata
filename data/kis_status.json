@@ -1,5 +1,5 @@
 {
- "run_at_kst": "2026-11-06T11:55:30+09:00",
+ "run_at_kst": "2026-11-06T12:01:58+09:00",
  "status": {
   "SPX": {
    "ok": true,
@@ -35,36 +35,92 @@
    }
   },
   "SSEC": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "SHANG",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 3651.65,
+    "chg_pct": -1.04
+   }
   },
   "HSI": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "HK#HS",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 24684.89,
+    "chg_pct": -0.45
+   }
   },
   "N225": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "JP#NI225",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 57858.61,
+    "chg_pct": -5.27
+   }
   },
   "TWII": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "TW#WT",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-06",
+    "close": 39838.38,
+    "chg_pct": -4.18
+   }
   },
   "SENSEX": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "IN#BOMBAY",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 79310.01,
+    "chg_pct": 2.6
+   }
   },
   "SX5E": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "SX5E",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 6231.54,
+    "chg_pct": -0.55
+   }
   },
   "DAX": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "GR#DAX",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 26325.01,
+    "chg_pct": -0.43
+   }
   },
   "FTSE": {
-   "ok": false,
-   "msg": "마스터에서 코드 못 찾음"
+   "ok": true,
+   "code": "GB#FTSE",
+   "rows": 100,
+   "msg": "정상처리 되었습니다.",
+   "latest": {
+    "date": "2026-11-05",
+    "close": 10782.66,
+    "chg_pct": -0.43
+   }
   },
   "KOSPI": {
    "ok": true,
@@ -73,8 +129,8 @@
    "msg": "정상처리 되었습니다.",
    "latest": {
     "date": "2026-11-06",
-    "close": 5192.91,
-    "chg_pct": -3.55
+    "close": 5188.97,
+    "chg_pct": -3.62
    }
   },
   "KOSDAQ": {
@@ -84,8 +140,8 @@
    "msg": "정상처리 되었습니다.",
    "latest": {
     "date": "2026-11-06",
-    "close": 656.3,
-    "chg_pct": -3.26
+    "close": 656.56,
+    "chg_pct": -3.22
    }
   }
  }
