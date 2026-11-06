@@ -99,8 +99,12 @@ new_rows, status = [], {}
 d1, d2 = start.strftime("%Y%m%d"), today.strftime("%Y%m%d")
 
 
+SCALE = {"JPYKRW": 100}  # 한투 원/엔은 1엔당 값이라 100엔 기준으로 맞춤
+
+
 def keep(sym, name, group, unit, pts):
     for d, v in pts:
+        v = round(v * SCALE.get(sym, 1), 4)
         new_rows.append({"date": d, "group": group, "symbol": sym, "name": name, "unit": unit, "close": v})
 
 
@@ -155,6 +159,8 @@ if os.path.exists(path):
         if "group" not in r:  # 1차 형식(지수만) 행 보정
             m = meta.get(r["symbol"])
             r["group"], r["unit"] = (m[2], m[3]) if m else ("지수", "")
+        if r["symbol"] == "JPYKRW" and r["close"] < 100:  # 이전 1엔 기준 행 보정
+            r["close"] = round(r["close"] * 100, 4)
         merged[(r["symbol"], r["date"])] = r
 for r in new_rows:
     merged[(r["symbol"], r["date"])] = r
