@@ -36,7 +36,8 @@ OVERSEAS = [
     ("SX5E", "유로스톡스50", "지수", "", "SX5E", IDX), ("DAX", "독일 DAX", "지수", "", "GR#DAX", IDX),
     ("FTSE", "영국 FTSE100", "지수", "", "GB#FTSE", IDX), ("CAC", "프랑스 CAC40", "지수", "", "FR#CAC", IDX),
     # 환율
-    ("USDKRW", "원/달러", "환율", "원", "FX@KRW", FX), ("JPYKRW", "원/엔(100엔)", "환율", "원", "FX@KRWJS", FX),
+    ("USDKRW", "원/달러(KMB)", "환율", "원", "FX@KRW", FX), ("USDKRW_KFTC", "원/달러(서울외국환중개)", "환율", "원", "FX@KRWKFTC", FX),
+    ("JPYKRW", "원/엔(100엔)", "환율", "원", "FX@KRWJS", FX),
     ("USDJPY", "엔/달러", "환율", "엔", "FX@JPY", FX), ("EURUSD", "달러/유로", "환율", "$", "FX@EUR", FX),
     ("USDCNY", "위안/달러", "환율", "위안", "FX@CNY", FX),
     # 해외 금리
