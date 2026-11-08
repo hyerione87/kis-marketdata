@@ -2,7 +2,11 @@ name: KIS market data
 
 on:
   schedule:
-    - cron: "50 21 * * 0-4"   # 평일 06:50 KST
+    # 평일 06:20 / 06:50 / 07:10 KST. GitHub 예약 실행은 늦거나 빠질 수 있어 3번 걸어두고,
+    # 아래 '오늘 이미 받았는지' 확인으로 실제 수집(토큰 발급)은 하루 1번만 해요.
+    - cron: "20 21 * * 0-4"
+    - cron: "50 21 * * 0-4"
+    - cron: "10 22 * * 0-4"
   workflow_dispatch: {}
   push:                        # 수동 요청: run-request.txt를 바꿔 올리면 1회 실행 (토큰 하루 1회 원칙 지킬 것)
     paths:
@@ -20,12 +24,21 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+      - name: Skip if already fetched today (KST)
+        id: guard
+        run: |
+          today=$(TZ=Asia/Seoul date +%F)
+          if grep -q "\"run_at_kst\": \"$today" data/kis_status.json 2>/dev/null; then
+            echo "already fetched $today"; echo "skip=1" >> "$GITHUB_OUTPUT"
+          fi
       - name: Fetch KIS quotes
+        if: steps.guard.outputs.skip != '1'
         env:
           KIS_APPKEY: ${{ secrets.KIS_APPKEY }}
           KIS_APPSECRET: ${{ secrets.KIS_APPSECRET }}
         run: python kis_fetch.py data
       - name: Commit data
+        if: steps.guard.outputs.skip != '1'
         run: |
           git config user.name "kis-bot"
           git config user.email "kis-bot@users.noreply.github.com"
