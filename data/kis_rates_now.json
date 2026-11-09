@@ -1,5 +1,5 @@
 {
- "run_at_kst": "2026-11-07T06:37:56+09:00",
+ "run_at_kst": "2026-11-09T10:16:23+09:00",
  "by_div_cls": {
   "0": {
    "msg": "정상처리 되었습니다.",
@@ -124,20 +124,20 @@
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prpr": "3.0300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.6800",
+     "bond_mnrt_prpr": "100.8100",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.3100",
-     "prdy_ctrt": "0.31",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "0.1300",
+     "prdy_ctrt": "0.13",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0116",
@@ -297,20 +297,20 @@
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prpr": "3.0300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.6800",
+     "bond_mnrt_prpr": "100.8100",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.3100",
-     "bstp_nmix_prdy_ctrt": "0.31",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "0.1300",
+     "bstp_nmix_prdy_ctrt": "0.13",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0116",
@@ -387,7 +387,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0205",
@@ -396,7 +396,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0206",
@@ -405,16 +405,16 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0207",
      "hts_kor_isnm": "일본 10년 국채수익률",
-     "bond_mnrt_prpr": "2.8060",
+     "bond_mnrt_prpr": "2.6960",
      "prdy_vrss_sign": "5",
-     "bond_mnrt_prdy_vrss": "-0.0490",
-     "prdy_ctrt": "-1.72",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "-0.1100",
+     "prdy_ctrt": "-3.92",
+     "stck_bsop_date": "20261106"
     }
    ],
    "output2": [
@@ -455,17 +455,18 @@
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "Y0114",
      "bond_mnrt_prpr": "�� (1��)",
-     "prdy_vrss_sign": "3.0500",
-     "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0100"
+     "prdy_vrss_sign": "3.0300",
+     "bond_mnrt_prdy_vrss": "5",
+     "bstp_nmix_prdy_ctrt": "-0.0200",
+     "stck_bsop_date": "-0.66"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "Y0115",
      "bond_mnrt_prpr": "����ä������",
-     "prdy_vrss_sign": "100.6800",
+     "prdy_vrss_sign": "100.8100",
      "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.3100"
+     "bstp_nmix_prdy_ctrt": "0.1300"
     },
     {
      "bcdt_code": "Y0108",
@@ -522,20 +523,20 @@
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prpr": "3.0300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.6800",
+     "bond_mnrt_prpr": "100.8100",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.3100",
-     "bstp_nmix_prdy_ctrt": "0.31",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "0.1300",
+     "bstp_nmix_prdy_ctrt": "0.13",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0116",
@@ -698,20 +699,20 @@
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prpr": "3.0300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.6800",
+     "bond_mnrt_prpr": "100.8100",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.3100",
-     "prdy_ctrt": "0.31",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "0.1300",
+     "prdy_ctrt": "0.13",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0116",
@@ -783,7 +784,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0205",
@@ -792,7 +793,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0206",
@@ -801,16 +802,16 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261104"
+     "stck_bsop_date": "20261105"
     },
     {
      "bcdt_code": "Y0207",
      "hts_kor_isnm": "일본 10년 국채수익률",
-     "bond_mnrt_prpr": "2.8060",
+     "bond_mnrt_prpr": "2.6960",
      "prdy_vrss_sign": "5",
-     "bond_mnrt_prdy_vrss": "-0.0490",
-     "prdy_ctrt": "-1.72",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "-0.1100",
+     "prdy_ctrt": "-3.92",
+     "stck_bsop_date": "20261106"
     }
    ],
    "output2": [
@@ -934,20 +935,20 @@
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prpr": "3.0300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.6800",
+     "bond_mnrt_prpr": "100.8100",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.3100",
-     "bstp_nmix_prdy_ctrt": "0.31",
-     "stck_bsop_date": "20261105"
+     "bond_mnrt_prdy_vrss": "0.1300",
+     "bstp_nmix_prdy_ctrt": "0.13",
+     "stck_bsop_date": "20261106"
     },
     {
      "bcdt_code": "Y0116",
