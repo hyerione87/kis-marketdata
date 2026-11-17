@@ -1,5 +1,5 @@
 {
- "run_at_kst": "2026-11-16T08:38:26+09:00",
+ "run_at_kst": "2026-11-17T12:59:37+09:00",
  "by_div_cls": {
   "0": {
    "msg": "정상처리 되었습니다.",
@@ -7,346 +7,346 @@
     {
      "bcdt_code": "Y0101",
      "hts_kor_isnm": "국고채 3년",
-     "bond_mnrt_prpr": "3.7590",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0300",
-     "prdy_ctrt": "0.80",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7430",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0160",
+     "prdy_ctrt": "-0.43",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0102",
      "hts_kor_isnm": "회사채 무보증 3년AA-",
-     "bond_mnrt_prpr": "4.4340",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0270",
-     "prdy_ctrt": "0.61",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.4160",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0180",
+     "prdy_ctrt": "-0.41",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0103",
      "hts_kor_isnm": "회사채 3년 BBB-",
-     "bond_mnrt_prpr": "10.2580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0260",
-     "prdy_ctrt": "0.25",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "10.2440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.14",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0104",
      "hts_kor_isnm": "국고채 1년",
-     "bond_mnrt_prpr": "3.6310",
+     "bond_mnrt_prpr": "3.6330",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0120",
-     "prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prdy_vrss": "0.0020",
+     "prdy_ctrt": "0.06",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0105",
      "hts_kor_isnm": "국고채 5년",
-     "bond_mnrt_prpr": "3.8410",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0380",
-     "prdy_ctrt": "1.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0110",
+     "prdy_ctrt": "-0.29",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "국고채 10년",
-     "bond_mnrt_prpr": "4.0010",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0640",
-     "prdy_ctrt": "1.63",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.9810",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "prdy_ctrt": "-0.50",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "국민주택1종 (5년)",
-     "bond_mnrt_prpr": "4.0460",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "prdy_ctrt": "0.87",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0020",
+     "prdy_ctrt": "-0.05",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0108",
      "hts_kor_isnm": "한전채(3년)",
-     "bond_mnrt_prpr": "4.1650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0190",
-     "prdy_ctrt": "0.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.1510",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.34",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0109",
      "hts_kor_isnm": "통안증권(364일)",
-     "bond_mnrt_prpr": "3.5580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0210",
-     "prdy_ctrt": "0.59",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.5540",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0040",
+     "prdy_ctrt": "-0.11",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0110",
      "hts_kor_isnm": "통안증권(2년)",
-     "bond_mnrt_prpr": "3.7650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0200",
-     "prdy_ctrt": "0.53",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7530",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0120",
+     "prdy_ctrt": "-0.32",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0111",
      "hts_kor_isnm": "산금채(1년)",
-     "bond_mnrt_prpr": "3.8980",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0060",
-     "prdy_ctrt": "0.15",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8840",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.36",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0112",
      "hts_kor_isnm": "C D (91일)",
-     "bond_mnrt_prpr": "3.3700",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.3800",
+     "prdy_vrss_sign": "2",
+     "bond_mnrt_prdy_vrss": "0.0100",
+     "prdy_ctrt": "0.30",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0113",
      "hts_kor_isnm": "C P (91일)",
      "bond_mnrt_prpr": "3.8400",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.26",
-     "stck_bsop_date": "20261113"
+     "prdy_vrss_sign": "3",
+     "bond_mnrt_prdy_vrss": "0.0000",
+     "prdy_ctrt": "0.00",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0600",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0900",
-     "prdy_ctrt": "3.03",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prpr": "3.0550",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0050",
+     "prdy_ctrt": "-0.16",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.4400",
+     "bond_mnrt_prpr": "100.3300",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.01",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.1200",
+     "prdy_ctrt": "0.12",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0116",
      "hts_kor_isnm": "국고채 20년",
-     "bond_mnrt_prpr": "4.1040",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "prdy_ctrt": "1.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0770",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0270",
+     "prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0117",
      "hts_kor_isnm": "국고채 30년",
-     "bond_mnrt_prpr": "4.0740",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "prdy_ctrt": "1.47",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0500",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0240",
+     "prdy_ctrt": "-0.59",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0198",
      "hts_kor_isnm": "Call 지수",
-     "bond_mnrt_prpr": "205.2219",
+     "bond_mnrt_prpr": "205.2394",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0175",
+     "prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0199",
      "hts_kor_isnm": "CD AAA 3개월(13주)",
-     "bond_mnrt_prpr": "219.7979",
+     "bond_mnrt_prpr": "219.8173",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0405",
-     "prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0194",
+     "prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     }
    ],
    "output2": [
     {
      "bcdt_code": "Y0101",
      "hts_kor_isnm": "국고채 3년",
-     "bond_mnrt_prpr": "3.7590",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0300",
-     "bstp_nmix_prdy_ctrt": "0.80",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7430",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0160",
+     "bstp_nmix_prdy_ctrt": "-0.43",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0102",
      "hts_kor_isnm": "회사채 무보증 3년AA-",
-     "bond_mnrt_prpr": "4.4340",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0270",
-     "bstp_nmix_prdy_ctrt": "0.61",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.4160",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0180",
+     "bstp_nmix_prdy_ctrt": "-0.41",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0103",
      "hts_kor_isnm": "회사채 3년 BBB-",
-     "bond_mnrt_prpr": "10.2580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0260",
-     "bstp_nmix_prdy_ctrt": "0.25",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "10.2440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.14",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0104",
      "hts_kor_isnm": "국고채 1년",
-     "bond_mnrt_prpr": "3.6310",
+     "bond_mnrt_prpr": "3.6330",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0120",
-     "bstp_nmix_prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prdy_vrss": "0.0020",
+     "bstp_nmix_prdy_ctrt": "0.06",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0105",
      "hts_kor_isnm": "국고채 5년",
-     "bond_mnrt_prpr": "3.8410",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0380",
-     "bstp_nmix_prdy_ctrt": "1.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0110",
+     "bstp_nmix_prdy_ctrt": "-0.29",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "국고채 10년",
-     "bond_mnrt_prpr": "4.0010",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0640",
-     "bstp_nmix_prdy_ctrt": "1.63",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.9810",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "bstp_nmix_prdy_ctrt": "-0.50",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "국민주택1종 (5년)",
-     "bond_mnrt_prpr": "4.0460",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "bstp_nmix_prdy_ctrt": "0.87",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0020",
+     "bstp_nmix_prdy_ctrt": "-0.05",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0108",
      "hts_kor_isnm": "한전채(3년)",
-     "bond_mnrt_prpr": "4.1650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0190",
-     "bstp_nmix_prdy_ctrt": "0.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.1510",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.34",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0109",
      "hts_kor_isnm": "통안증권(364일)",
-     "bond_mnrt_prpr": "3.5580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0210",
-     "bstp_nmix_prdy_ctrt": "0.59",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.5540",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0040",
+     "bstp_nmix_prdy_ctrt": "-0.11",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0110",
      "hts_kor_isnm": "통안증권(2년)",
-     "bond_mnrt_prpr": "3.7650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0200",
-     "bstp_nmix_prdy_ctrt": "0.53",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7530",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0120",
+     "bstp_nmix_prdy_ctrt": "-0.32",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0111",
      "hts_kor_isnm": "산금채(1년)",
-     "bond_mnrt_prpr": "3.8980",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0060",
-     "bstp_nmix_prdy_ctrt": "0.15",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8840",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.36",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0112",
      "hts_kor_isnm": "C D (91일)",
-     "bond_mnrt_prpr": "3.3700",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "bstp_nmix_prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.3800",
+     "prdy_vrss_sign": "2",
+     "bond_mnrt_prdy_vrss": "0.0100",
+     "bstp_nmix_prdy_ctrt": "0.30",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0113",
      "hts_kor_isnm": "C P (91일)",
      "bond_mnrt_prpr": "3.8400",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.26",
-     "stck_bsop_date": "20261113"
+     "prdy_vrss_sign": "3",
+     "bond_mnrt_prdy_vrss": "0.0000",
+     "bstp_nmix_prdy_ctrt": "0.00",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0600",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0900",
-     "bstp_nmix_prdy_ctrt": "3.03",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prpr": "3.0550",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0050",
+     "bstp_nmix_prdy_ctrt": "-0.16",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.4400",
+     "bond_mnrt_prpr": "100.3300",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.01",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.1200",
+     "bstp_nmix_prdy_ctrt": "0.12",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0116",
      "hts_kor_isnm": "국고채 20년",
-     "bond_mnrt_prpr": "4.1040",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0770",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0270",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0117",
      "hts_kor_isnm": "국고채 30년",
-     "bond_mnrt_prpr": "4.0740",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.47",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0500",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0240",
+     "bstp_nmix_prdy_ctrt": "-0.59",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0198",
      "hts_kor_isnm": "Call 지수",
-     "bond_mnrt_prpr": "205.2219",
+     "bond_mnrt_prpr": "205.2394",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0175",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0199",
      "hts_kor_isnm": "CD AAA 3개월(13주)",
-     "bond_mnrt_prpr": "219.7979",
+     "bond_mnrt_prpr": "219.8173",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0405",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0194",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     }
    ]
   },
@@ -356,29 +356,29 @@
     {
      "bcdt_code": "Y0201",
      "hts_kor_isnm": "미국 30년T-BOND",
-     "bond_mnrt_prpr": "5.4700",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0400",
-     "prdy_ctrt": "0.74",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "5.4600",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0100",
+     "prdy_ctrt": "-0.18",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0202",
      "hts_kor_isnm": "미국 10년T-NOTE 수익률",
-     "bond_mnrt_prpr": "5.1500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0500",
-     "prdy_ctrt": "0.98",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "5.1200",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0300",
+     "prdy_ctrt": "-0.58",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0203",
      "hts_kor_isnm": "미국 1년T-BILL",
-     "bond_mnrt_prpr": "4.6500",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.6200",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0300",
+     "prdy_ctrt": "-0.65",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0204",
@@ -387,7 +387,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0205",
@@ -396,7 +396,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0206",
@@ -405,173 +405,174 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0207",
      "hts_kor_isnm": "일본 10년 국채수익률",
-     "bond_mnrt_prpr": "2.8410",
+     "bond_mnrt_prpr": "2.9270",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0010",
-     "prdy_ctrt": "0.04",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.0280",
+     "prdy_ctrt": "0.97",
+     "stck_bsop_date": "20261116"
     }
    ],
    "output2": [
     {
-     "bcdt_code": "Y0102",
-     "hts_kor_isnm": "Y0110",
-     "bond_mnrt_prpr": "Y0198",
-     "prdy_vrss_sign": "Call 지수",
-     "bond_mnrt_prdy_vrss": "205.2219",
-     "bstp_nmix_prdy_ctrt": "2"
+     "bcdt_code": "Y0101",
+     "hts_kor_isnm": "Y0109",
+     "bond_mnrt_prpr": "Y0117",
+     "prdy_vrss_sign": "국고채 30년",
+     "bond_mnrt_prdy_vrss": "4.0500",
+     "bstp_nmix_prdy_ctrt": "5",
+     "stck_bsop_date": "-0.0240"
     },
     {
      "bcdt_code": "Y0103",
      "hts_kor_isnm": "Y0111",
      "bond_mnrt_prpr": "Y0199",
      "prdy_vrss_sign": "CD AAA 3개월(13주)",
-     "bond_mnrt_prdy_vrss": "219.7979",
+     "bond_mnrt_prdy_vrss": "219.8173",
      "bstp_nmix_prdy_ctrt": "2"
     },
     {
      "bcdt_code": "Y0104",
      "hts_kor_isnm": "Y0112",
      "bond_mnrt_prpr": "C D (91��)",
-     "prdy_vrss_sign": "3.3700",
-     "bond_mnrt_prdy_vrss": "3",
-     "bstp_nmix_prdy_ctrt": "0.0000"
+     "prdy_vrss_sign": "3.3800",
+     "bond_mnrt_prdy_vrss": "2",
+     "bstp_nmix_prdy_ctrt": "0.0100"
     },
     {
      "bcdt_code": "Y0105",
      "hts_kor_isnm": "Y0113",
      "bond_mnrt_prpr": "C P (91��)",
      "prdy_vrss_sign": "3.8400",
-     "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0100"
+     "bond_mnrt_prdy_vrss": "3",
+     "bstp_nmix_prdy_ctrt": "0.0000"
     },
     {
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "Y0114",
      "bond_mnrt_prpr": "�� (1��)",
-     "prdy_vrss_sign": "3.0600",
-     "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0900",
-     "stck_bsop_date": "3.03"
+     "prdy_vrss_sign": "3.0550",
+     "bond_mnrt_prdy_vrss": "5",
+     "bstp_nmix_prdy_ctrt": "-0.0050",
+     "stck_bsop_date": "-0.16"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "Y0115",
      "bond_mnrt_prpr": "����ä������",
-     "prdy_vrss_sign": "100.4400",
+     "prdy_vrss_sign": "100.3300",
      "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0100"
+     "bstp_nmix_prdy_ctrt": "0.1200"
     },
     {
      "bcdt_code": "Y0108",
      "hts_kor_isnm": "Y0116",
      "bond_mnrt_prpr": "����ä 20��",
-     "prdy_vrss_sign": "4.1040",
-     "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0590",
-     "stck_bsop_date": "1.46"
+     "prdy_vrss_sign": "4.0770",
+     "bond_mnrt_prdy_vrss": "5",
+     "bstp_nmix_prdy_ctrt": "-0.0270",
+     "stck_bsop_date": "-0.66"
     },
     {
      "bcdt_code": "Y0109",
      "hts_kor_isnm": "Y0117",
      "bond_mnrt_prpr": "����ä 30��",
-     "prdy_vrss_sign": "4.0740",
-     "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0590",
-     "stck_bsop_date": "1.47"
+     "prdy_vrss_sign": "4.0500",
+     "bond_mnrt_prdy_vrss": "5",
+     "bstp_nmix_prdy_ctrt": "-0.0240",
+     "stck_bsop_date": "-0.59"
     },
     {
      "bcdt_code": "Y0110",
      "hts_kor_isnm": "Y0198",
      "bond_mnrt_prpr": "Call ����",
-     "prdy_vrss_sign": "205.2219",
+     "prdy_vrss_sign": "205.2394",
      "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0350"
+     "bstp_nmix_prdy_ctrt": "0.0175"
     },
     {
      "bcdt_code": "Y0111",
      "hts_kor_isnm": "Y0199",
      "bond_mnrt_prpr": "CD AAA 3����(13��)",
-     "prdy_vrss_sign": "219.7979",
+     "prdy_vrss_sign": "219.8173",
      "bond_mnrt_prdy_vrss": "2",
-     "bstp_nmix_prdy_ctrt": "0.0405"
+     "bstp_nmix_prdy_ctrt": "0.0194"
     },
     {
      "bcdt_code": "Y0112",
      "hts_kor_isnm": "C D (91일)",
-     "bond_mnrt_prpr": "3.3700",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "bstp_nmix_prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.3800",
+     "prdy_vrss_sign": "2",
+     "bond_mnrt_prdy_vrss": "0.0100",
+     "bstp_nmix_prdy_ctrt": "0.30",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0113",
      "hts_kor_isnm": "C P (91일)",
      "bond_mnrt_prpr": "3.8400",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.26",
-     "stck_bsop_date": "20261113"
+     "prdy_vrss_sign": "3",
+     "bond_mnrt_prdy_vrss": "0.0000",
+     "bstp_nmix_prdy_ctrt": "0.00",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0600",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0900",
-     "bstp_nmix_prdy_ctrt": "3.03",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prpr": "3.0550",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0050",
+     "bstp_nmix_prdy_ctrt": "-0.16",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.4400",
+     "bond_mnrt_prpr": "100.3300",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.01",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.1200",
+     "bstp_nmix_prdy_ctrt": "0.12",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0116",
      "hts_kor_isnm": "국고채 20년",
-     "bond_mnrt_prpr": "4.1040",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0770",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0270",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0117",
      "hts_kor_isnm": "국고채 30년",
-     "bond_mnrt_prpr": "4.0740",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.47",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0500",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0240",
+     "bstp_nmix_prdy_ctrt": "-0.59",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0198",
      "hts_kor_isnm": "Call 지수",
-     "bond_mnrt_prpr": "205.2219",
+     "bond_mnrt_prpr": "205.2394",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0175",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0199",
      "hts_kor_isnm": "CD AAA 3개월(13주)",
-     "bond_mnrt_prpr": "219.7979",
+     "bond_mnrt_prpr": "219.8173",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0405",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0194",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     }
    ]
   },
@@ -581,200 +582,200 @@
     {
      "bcdt_code": "Y0101",
      "hts_kor_isnm": "국고채 3년",
-     "bond_mnrt_prpr": "3.7590",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0300",
-     "prdy_ctrt": "0.80",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7430",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0160",
+     "prdy_ctrt": "-0.43",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0102",
      "hts_kor_isnm": "회사채 무보증 3년AA-",
-     "bond_mnrt_prpr": "4.4340",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0270",
-     "prdy_ctrt": "0.61",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.4160",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0180",
+     "prdy_ctrt": "-0.41",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0103",
      "hts_kor_isnm": "회사채 3년 BBB-",
-     "bond_mnrt_prpr": "10.2580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0260",
-     "prdy_ctrt": "0.25",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "10.2440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.14",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0104",
      "hts_kor_isnm": "국고채 1년",
-     "bond_mnrt_prpr": "3.6310",
+     "bond_mnrt_prpr": "3.6330",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0120",
-     "prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prdy_vrss": "0.0020",
+     "prdy_ctrt": "0.06",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0105",
      "hts_kor_isnm": "국고채 5년",
-     "bond_mnrt_prpr": "3.8410",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0380",
-     "prdy_ctrt": "1.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0110",
+     "prdy_ctrt": "-0.29",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "국고채 10년",
-     "bond_mnrt_prpr": "4.0010",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0640",
-     "prdy_ctrt": "1.63",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.9810",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "prdy_ctrt": "-0.50",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "국민주택1종 (5년)",
-     "bond_mnrt_prpr": "4.0460",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "prdy_ctrt": "0.87",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0020",
+     "prdy_ctrt": "-0.05",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0108",
      "hts_kor_isnm": "한전채(3년)",
-     "bond_mnrt_prpr": "4.1650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0190",
-     "prdy_ctrt": "0.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.1510",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.34",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0109",
      "hts_kor_isnm": "통안증권(364일)",
-     "bond_mnrt_prpr": "3.5580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0210",
-     "prdy_ctrt": "0.59",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.5540",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0040",
+     "prdy_ctrt": "-0.11",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0110",
      "hts_kor_isnm": "통안증권(2년)",
-     "bond_mnrt_prpr": "3.7650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0200",
-     "prdy_ctrt": "0.53",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7530",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0120",
+     "prdy_ctrt": "-0.32",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0111",
      "hts_kor_isnm": "산금채(1년)",
-     "bond_mnrt_prpr": "3.8980",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0060",
-     "prdy_ctrt": "0.15",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8840",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "prdy_ctrt": "-0.36",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0112",
      "hts_kor_isnm": "C D (91일)",
-     "bond_mnrt_prpr": "3.3700",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.3800",
+     "prdy_vrss_sign": "2",
+     "bond_mnrt_prdy_vrss": "0.0100",
+     "prdy_ctrt": "0.30",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0113",
      "hts_kor_isnm": "C P (91일)",
      "bond_mnrt_prpr": "3.8400",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.26",
-     "stck_bsop_date": "20261113"
+     "prdy_vrss_sign": "3",
+     "bond_mnrt_prdy_vrss": "0.0000",
+     "prdy_ctrt": "0.00",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0600",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0900",
-     "prdy_ctrt": "3.03",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prpr": "3.0550",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0050",
+     "prdy_ctrt": "-0.16",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.4400",
+     "bond_mnrt_prpr": "100.3300",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "prdy_ctrt": "0.01",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.1200",
+     "prdy_ctrt": "0.12",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0116",
      "hts_kor_isnm": "국고채 20년",
-     "bond_mnrt_prpr": "4.1040",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "prdy_ctrt": "1.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0770",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0270",
+     "prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0117",
      "hts_kor_isnm": "국고채 30년",
-     "bond_mnrt_prpr": "4.0740",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "prdy_ctrt": "1.47",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0500",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0240",
+     "prdy_ctrt": "-0.59",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0198",
      "hts_kor_isnm": "Call 지수",
-     "bond_mnrt_prpr": "205.2219",
+     "bond_mnrt_prpr": "205.2394",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0175",
+     "prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0199",
      "hts_kor_isnm": "CD AAA 3개월(13주)",
-     "bond_mnrt_prpr": "219.7979",
+     "bond_mnrt_prpr": "219.8173",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0405",
-     "prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0194",
+     "prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0201",
      "hts_kor_isnm": "미국 30년T-BOND",
-     "bond_mnrt_prpr": "5.4700",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0400",
-     "prdy_ctrt": "0.74",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "5.4600",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0100",
+     "prdy_ctrt": "-0.18",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0202",
      "hts_kor_isnm": "미국 10년T-NOTE 수익률",
-     "bond_mnrt_prpr": "5.1500",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0500",
-     "prdy_ctrt": "0.98",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "5.1200",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0300",
+     "prdy_ctrt": "-0.58",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0203",
      "hts_kor_isnm": "미국 1년T-BILL",
-     "bond_mnrt_prpr": "4.6500",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.6200",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0300",
+     "prdy_ctrt": "-0.65",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0204",
@@ -783,7 +784,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0205",
@@ -792,7 +793,7 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0206",
@@ -801,189 +802,189 @@
      "prdy_vrss_sign": "3",
      "bond_mnrt_prdy_vrss": "0.0000",
      "prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261112"
+     "stck_bsop_date": "20261113"
     },
     {
      "bcdt_code": "Y0207",
      "hts_kor_isnm": "일본 10년 국채수익률",
-     "bond_mnrt_prpr": "2.8410",
+     "bond_mnrt_prpr": "2.9270",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0010",
-     "prdy_ctrt": "0.04",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.0280",
+     "prdy_ctrt": "0.97",
+     "stck_bsop_date": "20261116"
     }
    ],
    "output2": [
     {
      "bcdt_code": "Y0101",
      "hts_kor_isnm": "국고채 3년",
-     "bond_mnrt_prpr": "3.7590",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0300",
-     "bstp_nmix_prdy_ctrt": "0.80",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7430",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0160",
+     "bstp_nmix_prdy_ctrt": "-0.43",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0102",
      "hts_kor_isnm": "회사채 무보증 3년AA-",
-     "bond_mnrt_prpr": "4.4340",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0270",
-     "bstp_nmix_prdy_ctrt": "0.61",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.4160",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0180",
+     "bstp_nmix_prdy_ctrt": "-0.41",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0103",
      "hts_kor_isnm": "회사채 3년 BBB-",
-     "bond_mnrt_prpr": "10.2580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0260",
-     "bstp_nmix_prdy_ctrt": "0.25",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "10.2440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.14",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0104",
      "hts_kor_isnm": "국고채 1년",
-     "bond_mnrt_prpr": "3.6310",
+     "bond_mnrt_prpr": "3.6330",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0120",
-     "bstp_nmix_prdy_ctrt": "0.33",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prdy_vrss": "0.0020",
+     "bstp_nmix_prdy_ctrt": "0.06",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0105",
      "hts_kor_isnm": "국고채 5년",
-     "bond_mnrt_prpr": "3.8410",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0380",
-     "bstp_nmix_prdy_ctrt": "1.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8300",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0110",
+     "bstp_nmix_prdy_ctrt": "-0.29",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0106",
      "hts_kor_isnm": "국고채 10년",
-     "bond_mnrt_prpr": "4.0010",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0640",
-     "bstp_nmix_prdy_ctrt": "1.63",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.9810",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0200",
+     "bstp_nmix_prdy_ctrt": "-0.50",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0107",
      "hts_kor_isnm": "국민주택1종 (5년)",
-     "bond_mnrt_prpr": "4.0460",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "bstp_nmix_prdy_ctrt": "0.87",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0440",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0020",
+     "bstp_nmix_prdy_ctrt": "-0.05",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0108",
      "hts_kor_isnm": "한전채(3년)",
-     "bond_mnrt_prpr": "4.1650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0190",
-     "bstp_nmix_prdy_ctrt": "0.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.1510",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.34",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0109",
      "hts_kor_isnm": "통안증권(364일)",
-     "bond_mnrt_prpr": "3.5580",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0210",
-     "bstp_nmix_prdy_ctrt": "0.59",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.5540",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0040",
+     "bstp_nmix_prdy_ctrt": "-0.11",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0110",
      "hts_kor_isnm": "통안증권(2년)",
-     "bond_mnrt_prpr": "3.7650",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0200",
-     "bstp_nmix_prdy_ctrt": "0.53",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.7530",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0120",
+     "bstp_nmix_prdy_ctrt": "-0.32",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0111",
      "hts_kor_isnm": "산금채(1년)",
-     "bond_mnrt_prpr": "3.8980",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0060",
-     "bstp_nmix_prdy_ctrt": "0.15",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.8840",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0140",
+     "bstp_nmix_prdy_ctrt": "-0.36",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0112",
      "hts_kor_isnm": "C D (91일)",
-     "bond_mnrt_prpr": "3.3700",
-     "prdy_vrss_sign": "3",
-     "bond_mnrt_prdy_vrss": "0.0000",
-     "bstp_nmix_prdy_ctrt": "0.00",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "3.3800",
+     "prdy_vrss_sign": "2",
+     "bond_mnrt_prdy_vrss": "0.0100",
+     "bstp_nmix_prdy_ctrt": "0.30",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0113",
      "hts_kor_isnm": "C P (91일)",
      "bond_mnrt_prpr": "3.8400",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.26",
-     "stck_bsop_date": "20261113"
+     "prdy_vrss_sign": "3",
+     "bond_mnrt_prdy_vrss": "0.0000",
+     "bstp_nmix_prdy_ctrt": "0.00",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0114",
      "hts_kor_isnm": "콜 (1일)",
-     "bond_mnrt_prpr": "3.0600",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0900",
-     "bstp_nmix_prdy_ctrt": "3.03",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prpr": "3.0550",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0050",
+     "bstp_nmix_prdy_ctrt": "-0.16",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0115",
      "hts_kor_isnm": "종합채권지수",
-     "bond_mnrt_prpr": "100.4400",
+     "bond_mnrt_prpr": "100.3300",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0100",
-     "bstp_nmix_prdy_ctrt": "0.01",
-     "stck_bsop_date": "20261112"
+     "bond_mnrt_prdy_vrss": "0.1200",
+     "bstp_nmix_prdy_ctrt": "0.12",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0116",
      "hts_kor_isnm": "국고채 20년",
-     "bond_mnrt_prpr": "4.1040",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.46",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0770",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0270",
+     "bstp_nmix_prdy_ctrt": "-0.66",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0117",
      "hts_kor_isnm": "국고채 30년",
-     "bond_mnrt_prpr": "4.0740",
-     "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0590",
-     "bstp_nmix_prdy_ctrt": "1.47",
-     "stck_bsop_date": "20261113"
+     "bond_mnrt_prpr": "4.0500",
+     "prdy_vrss_sign": "5",
+     "bond_mnrt_prdy_vrss": "-0.0240",
+     "bstp_nmix_prdy_ctrt": "-0.59",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0198",
      "hts_kor_isnm": "Call 지수",
-     "bond_mnrt_prpr": "205.2219",
+     "bond_mnrt_prpr": "205.2394",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0350",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0175",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     },
     {
      "bcdt_code": "Y0199",
      "hts_kor_isnm": "CD AAA 3개월(13주)",
-     "bond_mnrt_prpr": "219.7979",
+     "bond_mnrt_prpr": "219.8173",
      "prdy_vrss_sign": "2",
-     "bond_mnrt_prdy_vrss": "0.0405",
-     "bstp_nmix_prdy_ctrt": "0.02",
-     "stck_bsop_date": "20261115"
+     "bond_mnrt_prdy_vrss": "0.0194",
+     "bstp_nmix_prdy_ctrt": "0.01",
+     "stck_bsop_date": "20261116"
     }
    ]
   }
