@@ -7,7 +7,12 @@ on:
     - cron: "20 21 * * 0-4"
     - cron: "50 21 * * 0-4"
     - cron: "10 22 * * 0-4"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      backfill_from:
+        description: "과거 구간 한 번 채우기 시작일(YYYY-MM-DD). 비우면 평소처럼 실행"
+        required: false
+        default: ""
   push:                        # 수동 요청: run-request.txt를 바꿔 올리면 1회 실행 (토큰 하루 1회 원칙 지킬 것)
     paths:
       - run-request.txt
@@ -28,6 +33,9 @@ jobs:
         id: guard
         run: |
           today=$(TZ=Asia/Seoul date +%F)
+          if [ -n "${{ github.event.inputs.backfill_from }}" ]; then
+            echo "backfill run"; exit 0
+          fi
           if grep -q "\"run_at_kst\": \"$today" data/kis_status.json 2>/dev/null; then
             echo "already fetched $today"; echo "skip=1" >> "$GITHUB_OUTPUT"
           fi
@@ -36,6 +44,7 @@ jobs:
         env:
           KIS_APPKEY: ${{ secrets.KIS_APPKEY }}
           KIS_APPSECRET: ${{ secrets.KIS_APPSECRET }}
+          BACKFILL_FROM: ${{ github.event.inputs.backfill_from }}
         run: python kis_fetch.py data
       - name: Commit data
         if: steps.guard.outputs.skip != '1'
