@@ -18,6 +18,8 @@ KST = dt.timezone(dt.timedelta(hours=9))
 today = dt.datetime.now(KST).date()
 start = today - dt.timedelta(days=150)   # 1회 호출 최대 약 100영업일
 keep_from = (today - dt.timedelta(days=760)).isoformat()
+# 과거 구간 한 번 채우기: BACKFILL_FROM=YYYY-MM-DD 이면 start 이전 구간을 나눠서 더 받는다
+BACKFILL_FROM = (os.environ.get("BACKFILL_FROM") or "").strip()
 
 # (symbol, 이름, group, 단위, KIS 코드, 시도할 시장 구분 순서)
 # 시장 구분: N 해외지수, X 환율, I 국채·금리, S 금·원자재 (KIS 문서 기준, 맞지 않으면 다음 구분을 시도)
@@ -109,30 +111,80 @@ def keep(sym, name, group, unit, pts):
         new_rows.append({"date": d, "group": group, "symbol": sym, "name": name, "unit": unit, "close": v})
 
 
+def windows(days):
+    """start 이전 BACKFILL_FROM까지를 days일씩 나눈 (시작, 끝) 목록. 최근 구간부터."""
+    out = []
+    if not BACKFILL_FROM:
+        return out
+    stop = dt.date.fromisoformat(BACKFILL_FROM)
+    end = start - dt.timedelta(days=1)
+    while end >= stop:
+        beg = max(stop, end - dt.timedelta(days=days - 1))
+        out.append((beg.strftime("%Y%m%d"), end.strftime("%Y%m%d")))
+        end = beg - dt.timedelta(days=1)
+    return out
+
+
+OV_WIN, DOM_WIN = windows(140), windows(65)   # 해외 1회 약 100행, 국내 1회 약 50행 한도
+backfill = {}
+
+
+def overseas(m, code, a, b):
+    j = quote("/uapi/overseas-price/v1/quotations/inquire-daily-chartprice", "FHKST03030100",
+              {"FID_COND_MRKT_DIV_CODE": m, "FID_INPUT_ISCD": code, "FID_INPUT_DATE_1": a,
+               "FID_INPUT_DATE_2": b, "FID_PERIOD_DIV_CODE": "D"})
+    return j
+
+
 for sym, name, group, unit, code, mkts in OVERSEAS:
     tried = []
     for m in mkts:
         try:
-            j = quote("/uapi/overseas-price/v1/quotations/inquire-daily-chartprice", "FHKST03030100",
-                      {"FID_COND_MRKT_DIV_CODE": m, "FID_INPUT_ISCD": code, "FID_INPUT_DATE_1": d1,
-                       "FID_INPUT_DATE_2": d2, "FID_PERIOD_DIV_CODE": "D"})
+            j = overseas(m, code, d1, d2)
             pts = parse(j.get("output2"))
             tried.append(f"{m}:{len(pts)}:{j.get('msg1', '').strip()[:40]}")
             if pts:
                 keep(sym, name, group, unit, pts)
                 status[sym] = {"ok": True, "code": code, "mkt": m, "rows": len(pts)}
+                n = 0
+                for a, b in OV_WIN:
+                    try:
+                        bp = parse(overseas(m, code, a, b).get("output2"))
+                        keep(sym, name, group, unit, bp)
+                        n += len(bp)
+                    except Exception as e:
+                        backfill.setdefault(sym, []).append(f"{a}-{b}:오류:{str(e)[:60]}")
+                if OV_WIN:
+                    backfill.setdefault(sym, []).insert(0, f"과거 {n}행")
                 break
         except Exception as e:
             tried.append(f"{m}:오류:{str(e)[:60]}")
     if sym not in status:
         status[sym] = {"ok": False, "code": code, "tried": tried}
 
+def domestic(code, a, b):
+    return quote("/uapi/domestic-stock/v1/quotations/inquire-daily-indexchartprice", "FHKUP03500100",
+                 {"FID_COND_MRKT_DIV_CODE": "U", "FID_INPUT_ISCD": code, "FID_INPUT_DATE_1": a,
+                  "FID_INPUT_DATE_2": b, "FID_PERIOD_DIV_CODE": "D"})
+
+
+# 국내는 1회 약 50행이라 기본 구간도 65일씩 나눠 받는다
+DOM_RECENT = []
+_e = today
+while _e >= start:
+    _b = max(start, _e - dt.timedelta(days=64))
+    DOM_RECENT.append((_b.strftime("%Y%m%d"), _e.strftime("%Y%m%d")))
+    _e = _b - dt.timedelta(days=1)
+
 for sym, name, code in DOMESTIC:
     try:
-        j = quote("/uapi/domestic-stock/v1/quotations/inquire-daily-indexchartprice", "FHKUP03500100",
-                  {"FID_COND_MRKT_DIV_CODE": "U", "FID_INPUT_ISCD": code, "FID_INPUT_DATE_1": d1,
-                   "FID_INPUT_DATE_2": d2, "FID_PERIOD_DIV_CODE": "D"})
+        j = domestic(code, d1, d2)
         pts = parse(j.get("output2"))
+        for a, b in DOM_RECENT[1:] + DOM_WIN:
+            try:
+                pts += parse(domestic(code, a, b).get("output2"))
+            except Exception as e:
+                backfill.setdefault(sym, []).append(f"{a}-{b}:오류:{str(e)[:60]}")
         keep(sym, name, "지수", "", pts)
         status[sym] = {"ok": bool(pts), "code": code, "rows": len(pts), "msg": j.get("msg1", "").strip()}
     except Exception as e:
@@ -181,8 +233,13 @@ for k, s in status.items():
     if k in latest:
         L = latest[k]
         s["latest"] = {"date": L["date"], "close": L["close"], "chg": L["chg"], "chg_pct": L["chg_pct"]}
-json.dump({"run_at_kst": dt.datetime.now(KST).isoformat(timespec="seconds"), "status": status},
+st = {"run_at_kst": dt.datetime.now(KST).isoformat(timespec="seconds"), "status": status}
+if BACKFILL_FROM:
+    st["backfill"] = {"from": BACKFILL_FROM, "detail": backfill}
+json.dump(st,
           open(os.path.join(OUT, "kis_status.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+if BACKFILL_FROM:
+    print("과거 구간:", BACKFILL_FROM, json.dumps(backfill, ensure_ascii=False))
 for k, s in status.items():
     print(k, "OK" if s["ok"] else "실패", s.get("mkt", ""), s.get("latest", s.get("tried", s.get("msg"))))
 if not any(s["ok"] for s in status.values()):
